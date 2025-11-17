@@ -46,3 +46,15 @@ Contributions, suggestions, and optimizations are always welcome. Fork the repos
 
 ## 🪶 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/itspjoriginals/DSA-Learning-Journey/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Greedy
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/itspjoriginals/DSA-Learning-Journey/tree/master/2212-removing-minimum-and-maximum-from-array) |
+<!---LeetCode Topics End-->
