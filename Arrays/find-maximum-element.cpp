@@ -13,6 +13,8 @@ int main(){
         }    }
 
         cout<<"The maximum element is : "<<maxi<<" present at index : "<<max_idx<<endl;
-
+        
+        //Calculating size of array
+        cout<<sizeof(arr)/sizeof(int)<<endl;
         return 0;
 }
